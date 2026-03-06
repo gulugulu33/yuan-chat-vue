@@ -1,3 +1,9 @@
+<img width="2878" height="1686" alt="image" src="https://github.com/user-attachments/assets/2cb94414-5e52-4941-957f-ffcb6c78642f" />
+改三个地方，<img width="484" height="92" alt="QQ_1772809677178" src="https://github.com/user-attachments/assets/f5ae93b0-2d1f-413d-8e05-4a90caf58aee" />
+<img width="1250" height="510" alt="QQ_1772809690100" src="https://github.com/user-attachments/assets/fab00fef-356c-408a-beaf-137fe1c83663" />
+然后<img width="1776" height="738" alt="QQ_1772809705656" src="https://github.com/user-attachments/assets/a758d347-b4f6-4d60-ae18-a3f70bb47b3c" />
+
+
 # AI聊天应用教程
 
 这是一个基于 Vue 3 + Node.js 构建的AI聊天应用教学项目，实现了与讯飞MaaS平台的集成，支持流式对话功能。
